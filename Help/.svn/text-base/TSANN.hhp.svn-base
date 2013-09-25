@@ -1,0 +1,24 @@
+[OPTIONS]
+Auto Index=Yes
+Compatibility=1.1 or later
+Compiled file=TSANN.chm
+Contents file=Table of Contents.hhc
+Default Font=Arial CYR,8,204
+Default Window=main
+Default topic=welcome.htm
+Display compile progress=Yes
+Error log file=_errorlog.txt
+Full-text search=Yes
+Index file=Index.hhk
+Language=0x402 Bulgarian (Bulgaria)
+Title=Анализ на времеви редове чрез невронни мрежи
+
+[WINDOWS]
+main=,"Table of Contents.hhc","Index.hhk","welcome.htm","welcome.htm",,,,,0x23520,222,0x106e,[10,10,780,560],0xb0000,,,,,,0
+
+
+[FILES]
+welcome.htm
+
+[INFOTYPES]
+
